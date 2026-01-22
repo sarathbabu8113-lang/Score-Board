@@ -1,0 +1,39 @@
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    margin: 0px;
+    background: #30364F;
+    align-items: center;
+}
+.container{
+    display:flex;
+    justify-content: space-evenly;
+    gap:0px;
+    margin-top: 20px;
+    color:#8F0177;
+}
+
+h3{
+    background: #0C2C55;
+    color:#980404;
+    text-align: center;
+    padding: 10px 0px;
+    font-family:"VT323", monospace;
+    font-size: 30px;
+}
+
+button{
+    background: #0C2C55;
+    color: #FFEF5F;
+    border-radius: 10%;
+    margin: 1px;
+    
+}
+
+button:active{
+    transform: scale(0.8);
+}
