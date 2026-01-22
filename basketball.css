@@ -28,7 +28,7 @@ h3{
 
 button{
     background: #0C2C55;
-    color: #FFEF5F;
+    color: #FFEF5E;
     border-radius: 10%;
     margin: 1px;
     
@@ -36,4 +36,5 @@ button{
 
 button:active{
     transform: scale(0.8);
+
 }
